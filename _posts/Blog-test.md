@@ -1,0 +1,19 @@
+---
+title: 'Blog test'
+date: 2022-10-19
+permalink: /posts/2022/10/Blog-test/
+tags:
+  - machine learning
+  - daily thinking
+  - 漫评
+---
+
+影评测试
+
+# 一级标题
+## 二级标题
+### 三级标题
+
+[超链接测试](https://liangyupu.github.io)
+
+![头像图片](../images/profile.jpg)
