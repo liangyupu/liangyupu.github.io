@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2023-10-01-layoutdit
 date: 2023-10-01
 venue: 'EMNLP 2023 Findings'
-paperurl: '[openreview](https://openreview.net/forum?id=NeOsOzNMiS)'
 ---
 Document image translation (DIT) aims to translate text embedded in images from one language to another.
 It is a challenging task that needs to understand visual layout with text semantics simultaneously.
@@ -17,7 +16,8 @@ Benefiting from the layout-aware end-to-end joint training, our LayoutDIT outper
 Besides, we create a new multi-domain document image translation dataset to validate the model’s generalization.
 Extensive experiments show that LayoutDIT has a good generalization in diverse and complex layout scenes.
 
-Download: [openreview](https://openreview.net/forum?id=NeOsOzNMiS)
+Paper Download Link:
+[openreview](https://openreview.net/forum?id=NeOsOzNMiS)
 
 Recommended citation:
 ```latex
