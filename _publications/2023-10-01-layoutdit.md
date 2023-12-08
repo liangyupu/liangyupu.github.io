@@ -1,8 +1,8 @@
 ---
 title: "LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder"
 collection: publications
-permalink: /publication/2023-10-layoutdit
-date: 2023-10
+permalink: /publication/2023-10-01-layoutdit
+date: 2023-10-01
 venue: 'EMNLP 2023 Findings'
 paperurl: '[openreview](https://openreview.net/forum?id=NeOsOzNMiS)'
 ---
