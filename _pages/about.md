@@ -13,15 +13,15 @@ Yupu Liang is a Ph.D. student in [Chinese Information Processing Group](http://w
 # News
 
 ### 2024.03
-Our new work *Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling* is accepted by NAACL 2024 Main.
+Our new work ***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling*** is accepted by NAACL 2024 Main.
 
 ### 2024.02
-Our new work *Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation* is accepted by LREC-COLING 2024.
+Our new work ***Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation*** is accepted by LREC-COLING 2024.
 
 ### 2023.10
-Our new work *LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder* is accepted by EMNLP 2023 Findings.
+Our new work ***LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder*** is accepted by EMNLP 2023 Findings.
 
 # Publications
-1. **Yupu Liang**, Yaping Zhang, Cong Ma, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou. *Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling*. In the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). 2024.
-2. Cong Ma, Yaping Zhang, Zhiyang Zhang, **Yupu Liang**, Yang Zhao, Yu Zhou, Chengqing Zong. *Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation*. In the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). 2024.
-3. Zhiyang Zhang, Yaping Zhang, **Yupu Liang**, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. *LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder*. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023). 2023.
+1. **Yupu Liang**, Yaping Zhang, Cong Ma, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou. ***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling***. In the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). 2024.
+2. Cong Ma, Yaping Zhang, Zhiyang Zhang, **Yupu Liang**, Yang Zhao, Yu Zhou, Chengqing Zong. ***Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation***. In the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). 2024.
+3. Zhiyang Zhang, Yaping Zhang, **Yupu Liang**, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. ***LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder***. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023). 2023.
