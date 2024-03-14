@@ -19,4 +19,7 @@ Our new work **Document Image Machine Translation with Dynamic Multi-pre-trained
 Our new work **Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation** is accepted by LREC-COLING 2024.
 
 ## 2023.10
-Our new work [**LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder**](https://openreview.net/forum?id=NeOsOzNMiS) is published.
+Our new work **LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder** is accepted by EMNLP 2023 Findings.
+
+## Publications
+
