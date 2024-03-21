@@ -11,6 +11,8 @@ redirect_from:
 Yupu Liang is a Ph.D. student in [Chinese Information Processing Group](http://www.nlpr.ia.ac.cn/cip/staff.htm) (CIP), Institute of Automation, Chinese Academy of Sciences, advised by [Yu Zhou](https://people.ucas.ac.cn/~zhouyu) and [Chengqing Zong](https://people.ucas.ac.cn/~zongchengqing). Before that, he received his B.E. degree in School of Automation Science and Electrical Engineering at Beihang University in 2021. His research focuses on multi-modal large language models, document AI, and machine translation.
 
 # News
+**[2024.04]** The DoTA dataset and code for DIMTDA  have been released. [\[Github\]](https://github.com/liangyupu/DIMTDA)
+
 **[2024.03]** Our new work ***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling*** has been accepted by NAACL 2024 Main.
 
 **[2024.02]** Our new work ***Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation*** has been accepted by LREC-COLING 2024.
@@ -20,5 +22,5 @@ Yupu Liang is a Ph.D. student in [Chinese Information Processing Group](http://w
 # Publications
 1. **Yupu Liang**, Yaping Zhang, Cong Ma, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou. ***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling***. In the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024). 2024.
 2. Cong Ma, Yaping Zhang, Zhiyang Zhang, **Yupu Liang**, Yang Zhao, Yu Zhou, Chengqing Zong. ***Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation***. In the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). 2024.
-3. Zhiyang Zhang, Yaping Zhang, **Yupu Liang**, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. ***LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder***. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023). 2023.
-4. Bing Sun, Yi Xu, Shuhang Xie, Dong Xu, **Yupu Liang**. ***Data Processing Methods of Flow Field Based on Artificial Lateral Line Pressure Sensors***. In the Journal of Bionic Engineering (JBE). 2022.
+3. Zhiyang Zhang, Yaping Zhang, **Yupu Liang**, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. ***LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder***. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023). 2023. [\[ACL Anthology\]](https://aclanthology.org/2023.findings-emnlp.673/)
+4. Bing Sun, Yi Xu, Shuhang Xie, Dong Xu, **Yupu Liang**. ***Data Processing Methods of Flow Field Based on Artificial Lateral Line Pressure Sensors***. In the Journal of Bionic Engineering (JBE). 2022. [\[Springer\]](https://link.springer.com/article/10.1007/s42235-022-00232-x)
