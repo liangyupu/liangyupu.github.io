@@ -11,7 +11,7 @@ redirect_from:
 Yupu Liang is a Ph.D. student in [Chinese Information Processing Group](http://www.nlpr.ia.ac.cn/cip/staff.htm) (CIP), Institute of Automation, Chinese Academy of Sciences, advised by [Yu Zhou](https://people.ucas.ac.cn/~zhouyu) and [Chengqing Zong](https://people.ucas.ac.cn/~zongchengqing). Before that, he received his B.E. degree in School of Automation Science and Electrical Engineering at Beihang University in 2021. His research focuses on multi-modal large language models, document AI, and machine translation.
 
 # News
-**[2024.04]** The DoTA dataset and code for DIMTDA  have been released. [\[Github\]](https://github.com/liangyupu/DIMTDA)
+**[2024.04]** The **DoTA dataset** and code for **DIMTDA**  have been released. [\[Github\]](https://github.com/liangyupu/DIMTDA)
 
 **[2024.03]** Our new work ***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling*** has been accepted by NAACL 2024 Main.
 
