@@ -11,6 +11,10 @@ redirect_from:
 Yupu Liang is a Ph.D. student in [Chinese Information Processing Group](http://www.nlpr.ia.ac.cn/cip/staff.htm) (CIP), Institute of Automation, Chinese Academy of Sciences, advised by [Yu Zhou](https://people.ucas.ac.cn/~zhouyu) and [Chengqing Zong](https://people.ucas.ac.cn/~zongchengqing). Before that, he received his B.E. degree in School of Automation Science and Electrical Engineering at Beihang University in 2021. His research focuses on multimodal large language model, document AI, and machine translation.
 
 # News
+**[2025.01] 📄** Our new work ***From Chaotic OCR Words to Coherent Document: A Fine-to-Coarse Zoom-Out Network for Complex-Layout Document Image Translation*** has been accepted by COLING 2025.
+
+**[2025.01] 📄** Our new work ***Understand Layout and Translate Text: Unified Feature-Conductive End-to-End Document Image Translation*** has been accepted by TPAMI.
+
 **[2024.04] 🛠️** The **DoTA dataset** and code for **DIMTDA**  have been released. [\[Github\]](https://github.com/liangyupu/DIMTDA)
 
 **[2024.03] 📄** Our new work ***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling*** has been accepted by NAACL 2024 Main.
@@ -20,10 +24,12 @@ Yupu Liang is a Ph.D. student in [Chinese Information Processing Group](http://w
 **[2023.10] 📄** Our new work ***LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder*** has been accepted by EMNLP 2023 Findings.
 
 # Publications
-1. **Yupu Liang**, Yaping Zhang, Cong Ma, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou. ***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling***. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2024). 2024. [\[ACL Anthology\]](https://aclanthology.org/2024.naacl-long.392)
-2. Cong Ma, Yaping Zhang, Zhiyang Zhang, **Yupu Liang**, Yang Zhao, Yu Zhou, Chengqing Zong. ***Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation***. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). 2024. [\[ACL Anthology\]](https://aclanthology.org/2024.lrec-main.222/)
-3. Zhiyang Zhang, Yaping Zhang, **Yupu Liang**, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. ***LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder***. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023). 2023. [\[ACL Anthology\]](https://aclanthology.org/2023.findings-emnlp.673/)
-4. Bing Sun, Yi Xu, Shuhang Xie, Dong Xu, **Yupu Liang**. ***Data Processing Methods of Flow Field Based on Artificial Lateral Line Pressure Sensors***. In the Journal of Bionic Engineering (JBE). 2022. [\[Springer\]](https://link.springer.com/article/10.1007/s42235-022-00232-x)
+1. Zhiyang Zhang, Yaping Zhang, **Yupu Liang**, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. ***From Chaotic OCR Words to Coherent Document: A Fine-to-Coarse Zoom-Out Network for Complex-Layout Document Image Translation***. In Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025). 2025. [\[ACL Anthology\]](https://aclanthology.org/2025.coling-main.723/)
+2. Zhiyang Zhang, Yaping Zhang, **Yupu Liang**, Cong Ma, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. ***Understand Layout and Translate Text: Unified Feature-Conductive End-to-End Document Image Translation***. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2025. [\[IEEE\]](https://ieeexplore.ieee.org/abstract/document/10844563)
+3. **Yupu Liang**, Yaping Zhang, Cong Ma, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou. ***Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling***. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2024). 2024. [\[ACL Anthology\]](https://aclanthology.org/2024.naacl-long.392)
+4. Cong Ma, Yaping Zhang, Zhiyang Zhang, **Yupu Liang**, Yang Zhao, Yu Zhou, Chengqing Zong. ***Born a BabNet with Hierarchical Parental Supervision for End-to-End Text Image Machine Translation***. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). 2024. [\[ACL Anthology\]](https://aclanthology.org/2024.lrec-main.222/)
+5. Zhiyang Zhang, Yaping Zhang, **Yupu Liang**, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. ***LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder***. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023). 2023. [\[ACL Anthology\]](https://aclanthology.org/2023.findings-emnlp.673/)
+6. Bing Sun, Yi Xu, Shuhang Xie, Dong Xu, **Yupu Liang**. ***Data Processing Methods of Flow Field Based on Artificial Lateral Line Pressure Sensors***. Journal of Bionic Engineering (JBE). 2022. [\[Springer\]](https://link.springer.com/article/10.1007/s42235-022-00232-x)
 
 # Educations
 **[2021.09 - Now]** Ph.D. Computer Science, Institute of Automation, Chinese Academy of Sciences
