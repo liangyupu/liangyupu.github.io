@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yupu Liang is a Ph.D. student in [Chinese Information Processing Group](http://www.nlpr.ia.ac.cn/cip/staff.htm) (CIP), Institute of Automation, Chinese Academy of Sciences, advised by [Yu Zhou](https://people.ucas.ac.cn/~zhouyu) and [Chengqing Zong](https://people.ucas.ac.cn/~zongchengqing). Before that, he received his B.E. degree in School of Automation Science and Electrical Engineering at Beihang University in 2021. His research focuses on multimodal large language model, document AI, and machine translation.
+Yupu Liang is a **Ph.D.** student in [Chinese Information Processing Group](http://www.nlpr.ia.ac.cn/cip/staff.htm) (CIP), Institute of Automation, **Chinese Academy of Sciences**, advised by [Yu Zhou](https://people.ucas.ac.cn/~zhouyu) and [Chengqing Zong](https://people.ucas.ac.cn/~zongchengqing). Before that, he received his **B.E.** degree in School of Automation Science and Electrical Engineering at **Beihang University** in 2021. His research focuses on multimodal large language model, document AI, and machine translation.
 
 # News
 **[2025.01] 📄** Our new work ***From Chaotic OCR Words to Coherent Document: A Fine-to-Coarse Zoom-Out Network for Complex-Layout Document Image Translation*** has been accepted by COLING 2025.
