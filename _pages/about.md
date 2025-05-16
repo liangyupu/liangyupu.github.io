@@ -13,7 +13,7 @@ Yupu Liang is a **Ph.D.** student in [Chinese Information Processing Group](http
 # News
 **[2025.05] 📄** Our new work ***Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation*** has been accepted by ACL 2025 Main.
 
-**[2025.05] 📄** Our new work ***Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency*** and ***A Query-Response Framework for Whole-Page Complex-Layout Document Image Translation with Relevant Regional Concentration*** have been accepted by ACL 2025 Findings.
+**[2025.05] 📄** Our new works ***Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency*** and ***A Query-Response Framework for Whole-Page Complex-Layout Document Image Translation with Relevant Regional Concentration*** have been accepted by ACL 2025 Findings.
 
 **[2025.01] 📄** Our new work ***From Chaotic OCR Words to Coherent Document: A Fine-to-Coarse Zoom-Out Network for Complex-Layout Document Image Translation*** has been accepted by COLING 2025.
 
