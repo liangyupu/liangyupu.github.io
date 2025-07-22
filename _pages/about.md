@@ -56,12 +56,6 @@ His research focuses on multimodal large language model, document AI, and machin
 * Outstanding Graduate of Beijing
 
 # Interns
-**[2025.06 - Now]** **Tencent**, Hunyuan Large Language Model Department
-* Explore methods to improve LLM’s ability to understand long documents in the pre-training and post-training stages
-
-**[2025.03 - 2025.05]** **Xiaohongshu (RedNote)**, Applied Algorithms Department
-* Explore the use of reinforcement learning to improve the image translation capabilities of MLLM
-
 **[2024.06 - 2025.02]** **Huawei**, Celia Department
 * Explore the application of end-to-end image translation model in mobile phone photography scenarios
 
