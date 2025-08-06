@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yupu Liang"
-  avatar           : "profile.jpg"
+  avatar           : "profile.JPG"
   bio              : "Multimodal LLM, Document AI, Machine Translation"
   location         : "Beijing, China"
   employer         :
