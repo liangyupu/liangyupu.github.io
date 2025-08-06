@@ -22,7 +22,7 @@ I am a member of the string section in the student Chinese orchestra of Beihang 
 I also manage a Bilibili account \[[1398号监听员\]](https://space.bilibili.com/161643711/upload/opus) where I share my reviews on anime, movies, and books. Feel free to follow!
 
 # News
-**[2025.07] 🎤** I give a talk about **SSR** online \[[Bilibili\]](https://www.bilibili.com/video/BV1KEbUziEhB/).
+**[2025.07] 🎤** I give a talk about **SSR** online. \[[Bilibili\]](https://www.bilibili.com/video/BV1KEbUziEhB/)
 
 **[2025.05] 📄** Our new work **DocRTN** has been accepted by TASLP.
 
