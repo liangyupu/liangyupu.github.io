@@ -15,7 +15,7 @@ My research focuses on multimodal large language model, document AI (document QA
 My research has led to several publications at top AI conferences and journals, including ACL, NAACL, EMNLP, TASLP, and TPAMI.
 I am currently serving as a reviewer for top conferences and journals, including ACL, NeurIPS, TASLP, etc.
 
-We are organizing the first ICDAR 2025 Competition on End-to-end Document Image Machine Translation [\[DIMT25@ICDAR\]](https://cip-documentai.github.io/).
+We are organizing the first ICDAR 2025 Competition on End-to-end Document Image Machine Translation! [\[DIMT25@ICDAR\]](https://cip-documentai.github.io/)
 
 Outside of research, I enjoy playing the [erhu](https://en.wikipedia.org/wiki/Erhu) (a traditional Chinese instrument), badminton🏸, running🏃🏻, and swimming🏊🏻.
 I am a member of the string section in the student Chinese orchestra of Beihang University and University of Chinese Academy of Sciences.
