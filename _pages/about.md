@@ -38,7 +38,7 @@ I also manage a Bilibili account \[[1398号监听员\]](https://space.bilibili.c
 
 **[2025.05] 📄** Our new works **SSR** and **QRDIT** have been accepted by ACL 2025 Findings.
 
-**[2025.03] 🏁** Submission site of DIMT25@ICDAR opens.
+**[2025.03] 🏁** Submission site of DIMT25@ICDAR opens. [\[Competition Website\]](https://cip-documentai.github.io)
 
 **[2025.01] 📄** Our new work **ZoomDIT** has been accepted by COLING 2025.
 
