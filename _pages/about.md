@@ -78,7 +78,7 @@ I also manage a Bilibili [\[1398号监听员\]](https://space.bilibili.com/16164
 * Outstanding Graduate of Beijing
 
 # Interns
-**[2025.06 - Now]** **Tencent**, Hunyuan Large Language Model Department
+**[2025.06 - 2026.02]** **Tencent**, Hunyuan Large Language Model Department
 * Explore methods to improve LLM’s ability to understand long documents in the pre-training and post-training stages
 
 **[2025.03 - 2025.05]** **Xiaohongshu (RedNote)**, Applied Algorithms Department
