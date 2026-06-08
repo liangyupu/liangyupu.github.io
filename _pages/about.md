@@ -17,8 +17,7 @@ I am currently serving as a reviewer for top conferences and journals, including
 I received my **Ph.D.** degree in [Chinese Information Processing Group](http://www.nlpr.ia.ac.cn/cip/staff.htm) (CIP), Institute of Automation, **Chinese Academy of Sciences**, advised by [Yu Zhou](https://people.ucas.ac.cn/~zhouyu) and [Chengqing Zong](https://people.ucas.ac.cn/~zongchengqing) in 2026.
 Before that, I received my **B.E.** degree in School of Automation Science and Electrical Engineering at **Beihang University** in 2021.
 
-Outside of research, I enjoy playing the [erhu](https://en.wikipedia.org/wiki/Erhu) (a traditional Chinese instrument), badminton🏸, running🏃🏻, and swimming🏊🏻.
-I am a member of the string section in the student Chinese orchestra of Beihang University and University of Chinese Academy of Sciences.
+Outside of research, I enjoy playing the [erhu](https://en.wikipedia.org/wiki/Erhu) (a traditional Chinese instrument, used to be a member of the string section in the student Chinese orchestra of Beihang University and University of Chinese Academy of Sciences), badminton🏸, running🏃🏻, and swimming🏊🏻.
 I also manage a Bilibili [\[1398号监听员\]](https://space.bilibili.com/161643711/upload/opus) and a Zhihu [\[1398号监听员\]](https://www.zhihu.com/people/1398hao-jian-ting-yuan) account where I share my reviews on anime, movies, and books. Feel free to follow!
 
 # News
