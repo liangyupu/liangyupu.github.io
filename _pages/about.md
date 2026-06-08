@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Ph.D.** student in [Chinese Information Processing Group](http://www.nlpr.ia.ac.cn/cip/staff.htm) (CIP), Institute of Automation, **Chinese Academy of Sciences**, advised by [Yu Zhou](https://people.ucas.ac.cn/~zhouyu) and [Chengqing Zong](https://people.ucas.ac.cn/~zongchengqing) and expect to graduate in June 2026.
-Before that, I received my **B.E.** degree in School of Automation Science and Electrical Engineering at **Beihang University** in 2021.
+I am a researcher at Tencent (Hunyuan Large Language Model Department).
 
-My research focuses on multimodal large language model, document AI (document QA, understanding, and reasoning), and machine translation.
+My research focuses on large language model, multimodal large language model, document AI, and machine translation.
 My research has led to several publications at top AI conferences and journals, including ACL, NAACL, EMNLP, TASLP, and TPAMI.
 I am currently serving as a reviewer for top conferences and journals, including ACL, NeurIPS, TASLP, etc.
 
-We organized the first ICDAR 2025 Competition on End-to-end Document Image Machine Translation. [\[DIMT25@ICDAR\]](https://cip-documentai.github.io/)
+I received my **Ph.D.** degree in [Chinese Information Processing Group](http://www.nlpr.ia.ac.cn/cip/staff.htm) (CIP), Institute of Automation, **Chinese Academy of Sciences**, advised by [Yu Zhou](https://people.ucas.ac.cn/~zhouyu) and [Chengqing Zong](https://people.ucas.ac.cn/~zongchengqing) in 2026.
+Before that, I received my **B.E.** degree in School of Automation Science and Electrical Engineering at **Beihang University** in 2021.
 
 Outside of research, I enjoy playing the [erhu](https://en.wikipedia.org/wiki/Erhu) (a traditional Chinese instrument), badminton🏸, running🏃🏻, and swimming🏊🏻.
 I am a member of the string section in the student Chinese orchestra of Beihang University and University of Chinese Academy of Sciences.
